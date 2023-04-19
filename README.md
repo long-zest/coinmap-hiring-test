@@ -38,8 +38,8 @@ POSTGRES_DATABASE = 'your postgres database name'<br />
 
 **Note: To have two below information go to https://mailtrap.io/ -> Signup -> At Mailtrap Home go to Email Testing tab -> At SMTP settings have Integrations box please click it and choose Nodemailer, you will see username and password information please copy that and fill it into two below information
 
-MAILTRAP_USERNAME= cedca599eea277<br /> 
-MAILTRAP_PASSWORD= 8b8bbca000d4e3<br />
+MAILTRAP_USERNAME= 'your mailtrap username'<br /> 
+MAILTRAP_PASSWORD= 'your mailtrap password'<br />
 <br />
 JWT_SECRET = 'your JWT secret code'
 
