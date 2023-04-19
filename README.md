@@ -26,6 +26,25 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Setup .env file
+
+Please setup .env file like below before starting
+
+POSTGRES_HOST = 'your postgres host'
+POSTGRES_PORT = 'your postgres port'
+POSTGRES_USERNAME = 'your postgres username'
+POSTGRES_PASSWORD = 'your postgres password'
+POSTGRES_DATABASE = 'your postgres database name'
+
+**Note: To have two below information go to https://mailtrap.io/ -> Signup -> At Mailtrap Home go to Email Testing tab -> At SMTP settings have Integrations box please click it and choose Nodemailer, you will see username and password information please copy that and fill it into two below information
+
+MAILTRAP_USERNAME= cedca599eea277 
+MAILTRAP_PASSWORD= 8b8bbca000d4e3
+
+JWT_SECRET = 'your JWT secret code'
+
+## To test websocket you can go to client folder and use index.html file i have created
+
 ## Installation
 
 ```bash
