@@ -43,7 +43,9 @@ MAILTRAP_PASSWORD= 8b8bbca000d4e3
 
 JWT_SECRET = 'your JWT secret code'
 
-## To test websocket you can go to client folder and use index.html file i have created
+## Test websocket
+
+To test websocket you can go to client folder and use index.html file i have created
 
 ## Installation
 
