@@ -30,17 +30,17 @@
 
 Please setup .env file like below before starting
 
-POSTGRES_HOST = 'your postgres host'
-POSTGRES_PORT = 'your postgres port'
-POSTGRES_USERNAME = 'your postgres username'
-POSTGRES_PASSWORD = 'your postgres password'
-POSTGRES_DATABASE = 'your postgres database name'
+POSTGRES_HOST = 'your postgres host'<br /> 
+POSTGRES_PORT = 'your postgres port'<br />
+POSTGRES_USERNAME = 'your postgres username'<br />
+POSTGRES_PASSWORD = 'your postgres password'<br />
+POSTGRES_DATABASE = 'your postgres database name'<br />
 
 **Note: To have two below information go to https://mailtrap.io/ -> Signup -> At Mailtrap Home go to Email Testing tab -> At SMTP settings have Integrations box please click it and choose Nodemailer, you will see username and password information please copy that and fill it into two below information
 
-MAILTRAP_USERNAME= cedca599eea277 
-MAILTRAP_PASSWORD= 8b8bbca000d4e3
-
+MAILTRAP_USERNAME= cedca599eea277<br /> 
+MAILTRAP_PASSWORD= 8b8bbca000d4e3<br />
+<br />
 JWT_SECRET = 'your JWT secret code'
 
 ## Test websocket
